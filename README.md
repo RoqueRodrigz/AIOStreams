@@ -155,4 +155,4 @@ This project wouldn't be possible without the foundational work of many others i
 * UI Components and issue templates adapted with permission from [5rahim/seanime](https://github.com/5rahim/seanime) (which any anime enthusiast should definitely check out!)
 * [sleeyax/stremio-easynews-addon](https://github.com/sleeyax/stremio-easynews-addon) for the projects initial structure
 * Custom formatter system inspired by and adapted from [diced/zipline](https://github.com/diced/zipline).
-* Condition engine powered by [expr-eval](https://github.com/silentmatt/expr-eval)
+* Condition engine powered by [expr-eval](https://github.com/silentmatt/expr-eval) 
